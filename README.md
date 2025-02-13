@@ -1,6 +1,6 @@
 # Super Mall Management System
 
-Admin
+<b>Admin</b>
 <ul style="list-style-type: circle;">
   <li>Login</li>
   <li>Create Shop Details</li>
