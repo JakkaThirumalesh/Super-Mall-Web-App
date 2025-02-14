@@ -1,8 +1,32 @@
-# React + Vite
+# Super Mall Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Admin</h2>
+<ul style="list-style-type: circle;">
+  <li>Login</li>
+  <li>Create Shop Details</li>
+  <li>Manage Shop Details</li>
+  <li>Manage Offer details</li>
+  <li>Manage Category & Floor</li>
+</ul>
 
-Currently, two official plugins are available:
+![image alt](https://github.com/JakkaThirumalesh/Super-Mall-Web-App/blob/main/Admin_Design.png?raw=true)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>User</h1>
+  <ul>
+        <li>Category Wise Details
+            <ul style="list-style-type: circle;">
+                <li>List of shop Details
+                    <ul style="list-style-type: square;">
+                        <li>List offer Products</li>
+                        <li>Compare Products cost & Features</li>
+                    </ul>
+                </li>
+                <li>Filter</li>
+                <li>Shop Wise Offers</li>
+                <li>Floor Wise Details</li>
+                <li>View Shop Details</li>
+            </ul>
+        </li>
+    </ul>
+
+![image alt](https://github.com/JakkaThirumalesh/Super-Mall-Web-App/blob/main/UserModule.png?raw=true)
